@@ -8,7 +8,7 @@ You can use any SMTP provider.
 
 Some common ones are:
 
-* [SendGrid](https://sendgrid.com) \( 100 emails / day free  - Recommended \)
+* [SendGrid](https://sendgrid.com) \( 100 emails / day free  - Recommended  - Obtain SMTP\)
 * [Postmark](https://postmarkapp.com/)
 * [Amazon SES](https://aws.amazon.com/ses/)
 * [MailGun](https://www.mailgun.com/)
