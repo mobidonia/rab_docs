@@ -32,3 +32,7 @@
 
 * [Can't login, stays on login screen](common-problems/cant-login-stays-on-login-screen.md)
 
+## Plugins
+
+* [App preview app](plugins/app-preview-app.md)
+
