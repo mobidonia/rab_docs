@@ -71,7 +71,7 @@ Firebase Storage by default is not initialized. You will need to click on "Stora
 
 
 
-**Action 4: Create a user in Firebase**
+#### **Action 4: Create a user in Firebase**
 
 After this, you should create a user in firebase for been able to login to your the app builder.
 
