@@ -12,7 +12,7 @@ From the menu, select the "Deploy builder page". You will be asked where you wan
 
 After you publish your project, you can log in to is as an administrator with your admin email and password.
 
-The ones you created when you [registered a user](https://mobidonia.support-hub.io/articles/step-0-create-firebase-project-1415#spanaction-4-create-a-user-in-firebasespanbr) in Firebase Account / Authentication. 
+The ones you created when you [registered a user](https://mobidonia.gitbook.io/react-app-builder/requirements/firebase-account-setup#action-4-create-a-user-in-firebase) in Firebase Account / Authentication. 
 
 #### Firebase Hosting \( Recommended \)
 

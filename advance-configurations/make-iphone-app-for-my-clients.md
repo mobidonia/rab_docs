@@ -22,9 +22,7 @@ You or your clients should have an [Apple Developer Account](https://developer.a
 
 Your client should send you an email with the app ID. 
 
-Run your local App producer. 
-
-[https://mobidonia.support-hub.io/articles/run-app-producer-locally-1437](https://mobidonia.support-hub.io/articles/run-app-producer-locally-1437)
+Run your [Local App producer](https://mobidonia.gitbook.io/react-app-builder/setup-and-deploy-the-project/run-app-producer-locally). 
 
 Instead of selecting the "Start build cycle" select, **iPhone App** and then select **Build**.
 
