@@ -14,8 +14,6 @@ Yous should see something like this.
 
 ![](https://support-hub--assets.s3.eu-west-2.amazonaws.com/assets/74/images/t4smF6qzOeisx4cHdjjRsXiVDL5TGvFiGzmRxYQq.png)
 
-If you are on Windows you may need to [do this setup](http://tritoneco.com/2014/02/21/fix-for-powershell-script-not-digitally-signed/) also.
-
 Select "**Set up project**" and click on enter.
 
 It will do the following tasks. 
