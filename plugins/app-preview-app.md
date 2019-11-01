@@ -93,7 +93,13 @@ It will add information on your landing page and in your builder. So users can d
 
 ![](../.gitbook/assets/screen-shot-2019-11-01-at-11.56.45-am.png)
 
+#### Enable google login to your project
 
+In the downloaded project you will find file config.js. In the object **loginSetup** you will find variable called **googleLogin**, ****set the value to **true.** Look at the picture below.
+
+![](../.gitbook/assets/screen-shot-2019-10-31-at-2.38.46-pm.png)
+
+\*\*\*\*
 
 #### Deploying to a standalone app on Android
 
@@ -115,5 +121,5 @@ All you have to do is to follow the Expo documentation for [google sign in](http
 
 In the downloaded project you will find file config.js. In the object **loginSetup** you will find variable called **iosStandaloneAppClientId,** replace the value of this variable with the **Client ID** that you have created in the previous step.
 
-![](../.gitbook/assets/screen-shot-2019-10-31-at-2.38.46-pm.png)
+![](../.gitbook/assets/screen-shot-2019-10-31-at-2.38.46-pm%20%281%29.png)
 
