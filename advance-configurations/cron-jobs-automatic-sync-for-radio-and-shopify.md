@@ -20,7 +20,7 @@ Cron Job creation
 
 Let's create a cron job. First, you need to go in your firebase functions and location the HTTP function that needs to be called.
 
-![](../.gitbook/assets/screenshot%20%283%29.png)
+![](../.gitbook/assets/screenshot%20%281%29.png)
 
 Copy the function link. And create a cron job on an interval you wish. ex. every 1min
 
@@ -30,11 +30,11 @@ This can help
 
 The cron in WEbMin should look like this
 
-![](../.gitbook/assets/screenshot%20%284%29.png)
+![](../.gitbook/assets/screenshot%20%282%29.png)
 
 The cron in Google Scheduler Can look like this
 
-![](../.gitbook/assets/screenshot%20%285%29.png)
+![](../.gitbook/assets/screenshot%20%284%29.png)
 
 Now my radios data will update every 1 min. 
 

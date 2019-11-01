@@ -80,37 +80,26 @@ It will add information on your landing page and in your builder. So users can d
 
 ### How to set up Google login
 
+#### Enable Google Sign-In in the Firebase console
+
+1. In the [Firebase console](https://console.firebase.google.com/?authuser=0), open the **Auth** section.
+2. On the **Sign in method** tab, enable the **Google** sign-in method and click **Save**.
+
+![](../.gitbook/assets/screen-shot-2019-11-01-at-11.55.44-am.png)
+
+  3. Go to the [Google Developer Credentials](https://console.developers.google.com/apis/credentials).  
+  4. Click **Create credentials**, then **OAuth client ID**, then select the **Web** radio button.  
+  5. Copy **Client Id** and **Client secret** and add it to your **Web SDK configuration.** Look at the             picture below
+
+![](../.gitbook/assets/screen-shot-2019-11-01-at-11.56.45-am.png)
+
+
+
 #### Deploying to a standalone app on Android
 
-If you want to use Google Sign In for a standalone app, you can follow these steps. These steps assume that you already have it working on the Expo client app. If you have already created an API key for Google Maps, you skip steps 3 through 8, inclusive.
+All you have to do is to follow the Expo documentation for [google sign in](https://docs.expo.io/versions/latest/sdk/google/#deploying-to-a-standalone-app-on-android) and when you will finish with the steps for creating Android credentials, you will have the Client ID.
 
-* **Get a Google API Key for your app** : `skip this if you already have one, eg: for Google Maps`
-  1. Build a standalone app and download the apk, or find one that you have already built.
-  2. Go to the [Google Developer Credentials](https://console.developers.google.com/apis/credentials)
-  3. Click **Create credentials**, then **API Key**, and finally click **RESTRICT KEY** in the modal that pops up.
-  4. Click the **Android apps** radio button under **Key restriction**, then click **+ Add package name and fingerprint**.
-  5. Add your `android.package` from `app.json` \(eg: `ca.brentvatne.growlerprowler`\) to the **Package name** field.
-  6. Run `expo fetch:android:hashes`.
-  7. Take `Google Certificate Fingerprint` from previous step and insert it in the **SHA-1 certificate fingerprint** field.
-  8. Press **Save**.
-* **Get an OAuth client ID for your app**
-  1. Build a standalone app and download the apk, or find one that you have already built.
-  2. Go to the [Google Developer Credentials](https://console.developers.google.com/apis/credentials).
-  3. Click **Create credentials**, then **OAuth client ID**, then select the **Android** radio button.
-  4. Run `expo fetch:android:hashes`.
-  5. Take `Google Certificate Fingerprint` from previous step and insert it in the **Signing-certificate fingerprint** field.
-  6. Add your `android.package` from `app.json` \(eg: `ca.brentvatne.growlerprowler`\) to the **Package name** field.
-  7. Press **Create**.
-* **Add the configuration to your app**
-  1. Build a standalone app and download the apk, or find one that you have already built.
-  2. Go to the [Google Developer Credentials](https://console.developers.google.com/apis/credentials) and find your API key.
-  3. Open `app.json` and add your **Google API Key** to `android.config.googleSignIn.apiKey`.
-  4. Run `expo fetch:android:hashes`.
-  5. Take `Google Certificate Hash` from the previous step to `app.json` under `android.config.googleSignIn.certificateHash`.
-  6. When you use `Google.logInAsync(..)`, pass in the **OAuth client ID** as the `androidStandaloneAppClientId` option.
-  7. Rebuild your standalone app.
-
-Note that if you've enabled Google Play's app signing service, you will need to grab their app signing certificate in production rather than the upload certificate returned by `expo fetch:android:hashes`. You can do this by grabbing the signature from Play Console -&gt; Your App -&gt; Release management -&gt; App signing, and then going to the [API Dashboard](https://console.developers.google.com/apis/) -&gt; Credentials and adding the signature to your existing credential.
+ 
 
 #### Add androidStandaloneAppClientId in the project
 
@@ -120,15 +109,7 @@ In the downloaded project you will find file config.js. In the object **loginSet
 
 #### Deploying to a standalone app on iOS
 
-If you want to use native sign in for a standalone app, you can follow these steps. These steps assume that you already have it working on the Expo client app.
-
-1. Add a `bundleIdentifier` to your `app.json` if you don't already have one.
-2. Open your browser to [Google Developer Credentials](https://console.developers.google.com/apis/credentials)
-3. Click **Create credentials** and then **OAuth client ID**, then choose **iOS**.
-4. Provide your `bundleIdentifier` in the **Bundle ID** field, then press **Create**.
-5. Add the given **iOS URL scheme** to your `app.json` under `ios.config.googleSignIn.reservedClientId`.
-6. Wherever you use `Google.logInAsync`, provide the **OAuth client ID** as the `iosStandaloneAppClientId` option.
-7. Rebuild your standalone app.
+All you have to do is to follow the Expo documentation for [google sign in](https://docs.expo.io/versions/latest/sdk/google/#deploying-to-a-standalone-app-on-ios) and when you will finish with the steps for creating iOS credentials, you will have the Client ID.
 
 #### Add iosStandaloneAppClientId in the project
 
