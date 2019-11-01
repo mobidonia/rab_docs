@@ -1,6 +1,6 @@
 # Clone our docs
 
-We have our app maker docs on GitBook. 
+We have our [app maker docs](https://mobidonia.gitbook.io/appmaker-docs/) on GitBook. 
 
 What you can do is to easily clone and edit this doc, for your own purposes. 
 
