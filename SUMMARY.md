@@ -1,9 +1,10 @@
 # Table of contents
 
-* [Setup your environment](README.md)
+* [React App Builder Docs](README.md)
 
 ## Requirements
 
+* [Environment Setup](requirements/environment-setup.md)
 * [Firebase Account setup](requirements/firebase-account-setup.md)
 * [Expo Account](requirements/expo-account.md)
 * [SMTP account](requirements/smtp-account.md)
@@ -35,4 +36,8 @@
 ## Plugins
 
 * [App preview app](plugins/app-preview-app.md)
+
+## FAQ
+
+* [FAQ](faq/faq.md)
 

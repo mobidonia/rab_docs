@@ -1,18 +1,20 @@
-# Setup your environment
+---
+description: Learn how to make your own React App Builder
+---
 
-You will need Node, Expo, Firebase Tools, RAB IInstaller \( if you get _EACCES_, use **sudo** before the commands \)
+# React App Builder Docs
 
-1. **Install node and npm**: Download it from [here](https://www.npmjs.com/get-npm). \( Use the stable version \)
-2. **Install Expo**: Follow [instructions](https://docs.expo.io/versions/v35.0.0/get-started/installation/). \( npm install -g expo-cli \)
-3. **Install** [**Firebase CLI**](https://firebase.google.com/docs/cli) ****  \( npm install -g firebase-tools \)
-4. **Install RAB Installer** \( npm install -g rabinstaller \)
-5. [Install Visual Studio Code](https://code.visualstudio.com/).
+## I purchased react app builder. What should I do next.
 
-To verify your installation run
+Thanks for the purchase. Click on the button bellow, and follow the docs, step by step.
 
-* _**node --version**_
-* _**npm --version**_
-* _**expo --version**_
-* _**firebase --version**_
-* _**rabinstaller --version**_
+{% page-ref page="requirements/environment-setup.md" %}
+
+## I have pre-sale questions? Where can I ask.
+
+You can contact us via our support portal [here](https://mobidonia.support-hub.io).  Select the general category. 
+
+Or pls check our FAQ to see if your question is already there.
+
+{% page-ref page="faq/faq.md" %}
 
