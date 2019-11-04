@@ -28,6 +28,7 @@
 * [App Producer is stuck on single app](advance-configurations/app-producer-is-stuck-on-single-app.md)
 * [Cron Jobs - Automatic sync for Radio and Shopify](advance-configurations/cron-jobs-automatic-sync-for-radio-and-shopify.md)
 * [Make iPhone App for my Clients](advance-configurations/make-iphone-app-for-my-clients.md)
+* [Manual - Bank transfers from my clients](advance-configurations/manual-bank-transfers-from-my-clients.md)
 
 ## Common Problems
 
