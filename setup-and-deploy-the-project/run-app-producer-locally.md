@@ -16,3 +16,5 @@ It will compile the JS Bundle, create the Android App and send the app to the cl
 
 Try it, create an app in your builder, click on submit and wait for an email. 
 
+All your builder can be found [here](https://expo.io/builds).
+
