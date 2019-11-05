@@ -10,7 +10,7 @@ In the terminal that opened run
 rabinstaller
 ```
 
-Yous should see something like this.
+You should see something like this.
 
 ![](https://support-hub--assets.s3.eu-west-2.amazonaws.com/assets/74/images/t4smF6qzOeisx4cHdjjRsXiVDL5TGvFiGzmRxYQq.png)
 
