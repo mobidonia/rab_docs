@@ -18,3 +18,11 @@ Or pls check our FAQ to see if your question is already there.
 
 {% page-ref page="faq/faq.md" %}
 
+## Updating
+
+To  do updates, on your project, check our change log. 
+
+{% embed url="https://headwayapp.co/react-app-builder-changes" %}
+
+
+
