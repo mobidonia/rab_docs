@@ -2,7 +2,7 @@
 
 Follow the link bellow, to see our change log. 
 
-{% page-ref page="changelog.md" %}
+{% embed url="https://headwayapp.co/react-app-builder-changes" %}
 
 
 
