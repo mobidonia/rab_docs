@@ -22,7 +22,7 @@ rab
 
 And select "Deploy cloud functions"
 
-## Error on deploying cloud function
+## Error on deploying landing page
 
 Run the following series of actions in your terminal / cmd
 
