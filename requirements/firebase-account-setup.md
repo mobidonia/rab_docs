@@ -35,7 +35,12 @@ But for production, this is a good starting point. This will allow edit and writ
 ![](https://support-hub--assets.s3.eu-west-2.amazonaws.com/assets/74/images/nraH8CpL584KSYeoQZC2ADFFcd4CWYuFgY3c76Uh.png)
 
 ```text
-{    "rules": {      ".read": true,       ".write": "auth !== null"    }  } 
+{  
+  "rules": {  
+    ".read": true,  
+     ".write": "auth !== null"  
+  }  
+} 
 ```
 {% endtab %}
 

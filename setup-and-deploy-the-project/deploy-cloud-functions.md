@@ -7,6 +7,7 @@ From the menu, select the "Deploy Cloud Functions". This action will install/upd
 At the end, you should get
 
 ```text
-Cloud functions should be on your Firebase now!Now is the time to set up your Paddle Webhooks!
+Cloud functions should be on your Firebase now!
+Now is the time to set up your Paddle Webhooks!
 ```
 
