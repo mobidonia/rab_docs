@@ -30,5 +30,5 @@ The good thing about Netlify is that when there is an update, you will just comm
 
 If you have your own hosting, you can use it to host your builder. This script will create the build folder locally. You will need to upload the content on hosting. 
 
-Important: The Builder page can't be hosted in a subfolder. It can be hosted directly in a domain or any subdomain. 
+**Important**: The Builder page can't be hosted in a subfolder. It can be hosted directly in a domain or any subdomain. 
 
