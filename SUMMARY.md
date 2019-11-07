@@ -34,6 +34,7 @@
 
 * [Can't login, stays on login screen](common-problems/cant-login-stays-on-login-screen.md)
 * [Error shows: You don't have Item Purchase](common-problems/error-shows-you-dont-have-item-purchase.md)
+* [Errors using rab](common-problems/errors-using-rab.md)
 
 ## Plugins
 
