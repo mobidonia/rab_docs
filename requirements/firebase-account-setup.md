@@ -8,9 +8,7 @@ And in Firestore is where our actual data is. Like menu content, categories, ord
 
 Let's get started. Create an account in Firebase with your google account.
 
-#### Create a Firebase Project
-
-
+#### Follow all the guides in the tabs. 
 
 {% tabs %}
 {% tab title="Create Project" %}
@@ -37,12 +35,7 @@ But for production, this is a good starting point. This will allow edit and writ
 ![](https://support-hub--assets.s3.eu-west-2.amazonaws.com/assets/74/images/nraH8CpL584KSYeoQZC2ADFFcd4CWYuFgY3c76Uh.png)
 
 ```text
-{  
-  "rules": {  
-    ".read": true,  
-     ".write": "auth !== null"  
-  }  
-} 
+{    "rules": {      ".read": true,       ".write": "auth !== null"    }  } 
 ```
 {% endtab %}
 

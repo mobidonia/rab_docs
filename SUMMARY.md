@@ -42,4 +42,5 @@
 ## FAQ
 
 * [FAQ](faq/faq.md)
+* [Changelog](faq/changelog.md)
 
