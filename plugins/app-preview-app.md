@@ -78,9 +78,9 @@ Execute this option when your app is live on google play or AppStore.
 
 It will add information on your landing page and in your builder. So users can download the app and login with their user/pass to preview the apps.
 
-### How to set up Google login
+## How to set up Google login
 
-#### Enable Google Sign-In in the Firebase console
+### Enable Google Sign-In in the Firebase console
 
 1. In the [Firebase console](https://console.firebase.google.com/?authuser=0), open the **Auth** section.
 2. On the **Sign in method** tab, enable the **Google** sign-in method and click **Save**.
@@ -99,7 +99,21 @@ In the downloaded project you will find file config.js. In the object **loginSet
 
 ![](../.gitbook/assets/screen-shot-2019-10-31-at-2.38.46-pm.png)
 
-\*\*\*\*
+### Google login in Expo client
+
+Follow the instruction for **Create an iOS OAuth Client ID** and **Create an Android OAuth Client ID** for ****[Using it inside of the Expo app](https://docs.expo.io/versions/latest/sdk/google/#using-it-inside-of-the-expo-app).
+
+Now when you have **iOS OAuth Client ID** and **Android OAuth Client ID**  created, next step is to add the Client IDs in the downloaded project in the config.js file. In the object **loginSetup** you will find variables called **googleIOSid** and **googleAndroidId**, ****replace the value with yours **iOS OAuth Client ID** and **Android OAuth Client ID .** Look at the pictures below**.**
+
+**For iOS OAuth Client ID**
+
+![](../.gitbook/assets/screen-shot-2019-11-13-at-1.03.06-pm.png)
+
+**For Android OAuth Client ID**
+
+![](../.gitbook/assets/screen-shot-2019-11-13-at-1.03.22-pm.png)
+
+### Google login in standalone apps
 
 #### Deploying to a standalone app on Android
 
