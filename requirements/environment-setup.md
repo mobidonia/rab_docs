@@ -14,9 +14,11 @@ You will need Node, Expo, Firebase Tools, RAB IInstaller \( if you get _EACCES_,
 
 To verify your installation run
 
-* _**node --version**_
-* _**npm --version**_
-* _**expo --version**_
-* _**firebase --version**_
-* _**rabinstaller --version**_
+```text
+node --version
+npm --version
+expo --version
+firebase --version
+rabinstaller --version
+```
 
