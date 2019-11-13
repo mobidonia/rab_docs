@@ -16,9 +16,13 @@ To verify your installation run
 
 ```text
 node --version
+
 npm --version
+
 expo --version
+
 firebase --version
+
 rabinstaller --version
 ```
 
