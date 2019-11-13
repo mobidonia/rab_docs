@@ -34,11 +34,15 @@ And enter the id of the app of your client.
 
 Next, in terminal run
 
-`rab` 
+`rab`
 
 Select **Run App producer locally**  
 Then select **Make iPhone app**  
-and then select **Upload**
+After process is done do the following actions in terminal
+
+`cd Mobile App`
+
+`expo bi`
 
 This script will as you question how you want to publish the iPhone app, on what account. Do this in collaboration with your client. 
 
@@ -48,9 +52,7 @@ Create a new app in your iTunes connect portal.
 
 #### Take screenshots <a id="take-screenshots"></a>
 
-Next, run **rab-&gt;Run App producer locally-&gt;iPhone App** and then select **Screenshots**
-
-This will open a web browser. Run-on different  Simulators to take the screenshots.
+To take screenshot, you can use the in browser preview to take screenshots. There we have options to correct the screens to correct dimensions. 
 
 
 
