@@ -32,7 +32,13 @@ And enter the id of the app of your client.
 
 #### Upload app <a id="upload-app"></a>
 
-Next, run **rab-&gt;Run App producer locally-&gt;iPhone App** and then select **Upload**
+Next, in terminal run
+
+`rab` 
+
+Select **Run App producer locally**  
+Then select **Make iPhone app**  
+and then select **Upload**
 
 This script will as you question how you want to publish the iPhone app, on what account. Do this in collaboration with your client. 
 
