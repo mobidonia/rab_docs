@@ -22,6 +22,7 @@
 
 ## Advance Configurations
 
+* [\[Optional\] Server App producer](advance-configurations/optional-server-app-producer.md)
 * [Run App producer on server](advance-configurations/run-app-producer-on-server.md)
 * [Clone our docs](advance-configurations/clone-our-docs.md)
 * [Add custom domain to your Firebase Hosting](advance-configurations/add-custom-domain-to-your-firebase-hosting.md)
