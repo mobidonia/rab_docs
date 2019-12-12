@@ -46,7 +46,7 @@ When you have your Paddle account ready, and you have set your pricing plans, co
 You also need to replace the **vendor\_id**
 {% endtab %}
 
-{% tab title="" %}
+{% tab title="SMTP" %}
 SMTP is used to send email when the app producer has made the app. Follow the docs on the following link.
 
 {% page-ref page="smtp-account.md" %}
