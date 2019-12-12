@@ -5,14 +5,14 @@
 ## Requirements
 
 * [Environment Setup](requirements/environment-setup.md)
-* [Firebase Account setup](requirements/firebase-account-setup.md)
 * [Expo Account](requirements/expo-account.md)
-* [SMTP account](requirements/smtp-account.md)
-* [Paddle Account](requirements/paddle-account.md)
+* [Setup project config file](requirements/setup-project-config-file/README.md)
+  * [Firebase Account setup](requirements/setup-project-config-file/firebase-account-setup.md)
+  * [Paddle Account](requirements/setup-project-config-file/paddle-account.md)
+  * [SMTP account](requirements/setup-project-config-file/smtp-account.md)
 
 ## Setup and Deploy the project
 
-* [Setup project config file](setup-and-deploy-the-project/setup-project-config-file.md)
 * [Setup your project](setup-and-deploy-the-project/setup-your-project.md)
 * [Deploy Builder page](setup-and-deploy-the-project/deploy-builder-page.md)
 * [Deploy Cloud Functions](setup-and-deploy-the-project/deploy-cloud-functions.md)
