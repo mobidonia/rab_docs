@@ -21,5 +21,10 @@ Then you can manage the translation.
 
 
 
+We have translated our English Strings into Spanish with this tool: [https://poeditor.com/](https://poeditor.com/)
 
+Here is the Spanish translations if you need them.  
+[https://tester-8e38d.firebaseio.com/translations/es.json](https://tester-8e38d.firebaseio.com/translations/es.json)  
+  
+Download as file. Go in your firebase database translations/es and import the es.json file.
 
