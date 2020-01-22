@@ -8,8 +8,10 @@ We wanted to offer our clients fully managed service, where their only job will 
 
 With Cloud React App Builder you get your instance up and running in 1 business day. Each update to our code is automatically published on the client instance too. No worries for additional server or database costs. No worries for making apps, we handle everything.
 
+## Compare between Self hosted 
+
 | **Self hosted** | **Cloud solution** |
-| :--- | :--- |
+| :---: | :---: |
 | Go over the docs to make the setup on your server | We make the setup |
 | Manual updates to Builder and App Producer | No costs for server |
 | Modify source code | Always up to date |
@@ -19,8 +21,10 @@ With Cloud React App Builder you get your instance up and running in 1 business 
 |  | No knowledge of IT needed |
 
 {% hint style="info" %}
- CodeCanyon purchase code required for both
+ **CodeCanyon purchase code required for both**
 {% endhint %}
+
+\*\*\*\*
 
 
 
