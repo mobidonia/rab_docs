@@ -47,3 +47,7 @@
 * [FAQ](faq/faq.md)
 * [Changelog](faq/changelog.md)
 
+## Cloud React App Builder
+
+* [Getting Started](cloud-react-app-builder/getting-started.md)
+
