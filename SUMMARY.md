@@ -51,3 +51,7 @@
 
 * [Getting Started](cloud-react-app-builder/getting-started.md)
 
+## CLOUD
+
+* [Cloud vs Self Hosted](cloud/cloud-vs-self-hosted.md)
+
