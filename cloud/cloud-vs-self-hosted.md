@@ -6,11 +6,16 @@
 
 ### 
 
-### Pricing
+### Plans
 
 |  | Self Hosted | Cloud |
 | :--- | :--- | :--- |
-|  |  |  |
+| Price | 100$ - Onetime | 100$ - Onetime + 49$ / month |
+| Number of Apps | Unlimited | Unlimited \( 20 new apps per month \) |
+| Time to Setup | 4-5 Hours | 2 min \( 1 business day for us to activate it \) |
+| Who makes the app | You on your computer | We |
+| Do I need MAC to make iPhone Apps | Yes | No |
+| Automated Android App Make | Yes - You need to setup VPS  \( 5$+ / month\) | We handle it |
 
 
 
