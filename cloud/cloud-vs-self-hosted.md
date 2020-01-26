@@ -24,7 +24,6 @@ With Cloud React App Builder you get your instance up and running in 1 business 
 | Who makes the app | You on your computer | We |
 | Do I need MAC to make iPhone Apps | Yes | No |
 | Automated Android App Make | Yes - You need to setup VPS  \( 5$+ / month\) | We handle it |
-|  |  | Register now \( [https://danieldimov.typeform.com/to/nRn5CP](https://danieldimov.typeform.com/to/nRn5CP) \) |
 
 
 

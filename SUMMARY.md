@@ -51,3 +51,7 @@
 
 * [Cloud vs Self Hosted](cloud/cloud-vs-self-hosted.md)
 
+## Easy Setup - Netlify
+
+* [Easy install on netlify](easy-setup-netlify/easy-install-on-netlify.md)
+
