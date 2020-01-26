@@ -14,6 +14,10 @@ Then we will add you as collaborator on our repository.
 
 Then you will have your own clone of the App Builder site. You can easily sync the changes from our source code.
 
+{% hint style="info" %}
+If you don't want to wait for us to give you access, you can [create new private repository with the code](https://www.softwarelab.it/2018/10/12/adding-an-existing-project-to-github-using-the-command-line/) you downloaded from Code Canyon \(Builder Folder\). But this way you lose the opportunity to sync with our source code when we release new version. 
+{% endhint %}
+
 ## Create Firebase Database
 
 Instructions here
