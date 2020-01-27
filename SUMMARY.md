@@ -2,6 +2,14 @@
 
 * [React App Builder Docs](README.md)
 
+## Easy Setup - Netlify
+
+* [Easy install on Netlify](easy-setup-netlify/easy-install-on-netlify.md)
+
+## CLOUD
+
+* [Cloud vs Self Hosted](cloud/cloud-vs-self-hosted.md)
+
 ## Requirements
 
 * [Environment Setup](requirements/environment-setup.md)
@@ -46,12 +54,4 @@
 
 * [FAQ](faq/faq.md)
 * [Changelog](faq/changelog.md)
-
-## CLOUD
-
-* [Cloud vs Self Hosted](cloud/cloud-vs-self-hosted.md)
-
-## Easy Setup - Netlify
-
-* [Easy install on netlify](easy-setup-netlify/easy-install-on-netlify.md)
 
