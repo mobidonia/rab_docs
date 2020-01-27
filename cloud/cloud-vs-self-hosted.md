@@ -16,15 +16,59 @@ With Cloud React App Builder you get your instance up and running in 1 business 
 
 ### Plans
 
-|  | Self Hosted | Cloud |
-| :--- | :--- | :--- |
-| Price | 100$ - Onetime | 100$ - Onetime + 49$ / month |
-| Number of Apps | Unlimited | Unlimited \( 20 new apps per month \) |
-| Time to Setup | 4-5 Hours | 2 min \( 1 business day for us to activate it \) |
-| Who makes the app | You on your computer | We |
-| Do I need MAC to make iPhone Apps | Yes | No |
-| Automated Android App Make | Yes - You need to setup VPS  \( 7$+ / month\) | We handle it |
-|  |  | Register now \( [https://danieldimov.typeform.com/to/nRn5CP](https://danieldimov.typeform.com/to/nRn5CP) \) |
-
-
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"></th>
+      <th style="text-align:left">Self Hosted</th>
+      <th style="text-align:left">Cloud</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Price</td>
+      <td style="text-align:left">100$ - Onetime</td>
+      <td style="text-align:left">100$ - Onetime + 49$ / month</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Number of Apps</td>
+      <td style="text-align:left">Unlimited</td>
+      <td style="text-align:left">Unlimited ( 20 new apps per month )</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Time to Setup</td>
+      <td style="text-align:left">4-5 Hours</td>
+      <td style="text-align:left">2 min ( 1 business day for us to activate it )</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Who makes the app</td>
+      <td style="text-align:left">You on your computer</td>
+      <td style="text-align:left">We</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Do I need MAC to make iPhone Apps</td>
+      <td style="text-align:left">Yes</td>
+      <td style="text-align:left">No</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Automated Android App Make</td>
+      <td style="text-align:left">Yes - You need to setup VPS
+        <br />( 7$+ / month)</td>
+      <td style="text-align:left">We handle it</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <p>Continue with Self Hosted</p>
+        <p><a href="http://bit.ly/self_hosted_rab">http://bit.ly/self_hosted_rab</a>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <p>Continue With Cloud</p>
+        <p><a href="http://bit.ly/cloud_rab">http://bit.ly/cloud_rab</a> 
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 

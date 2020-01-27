@@ -1,7 +1,3 @@
----
-description: If you don't use Netlify
----
-
 # Paddle WebHooks
 
 WebHooksFirst, from your Firebase Cloud Functions, copy the Paddle Integration link.

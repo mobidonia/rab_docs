@@ -14,17 +14,17 @@ After you publish your project, you can log in to is as an administrator with yo
 
 The ones you created when you [registered a user](https://mobidonia.gitbook.io/react-app-builder/requirements/firebase-account-setup#action-4-create-a-user-in-firebase) in Firebase Account / Authentication. 
 
-#### 
+#### Firebase Hosting \( Recommended \)
 
-#### Netlify -  \( Recommended \)
+It is the easiest option. It will build your project, and upload it to Firebase. In the end, the console will display your Hosting URL:
 
-{% page-ref page="../easy-setup-netlify/easy-install-on-netlify.md" %}
+#### Netlify
 
-#### 
+To publish your project on Netlify, easiest way will be to create your own **private** repo of this project on Bitbucket or GitHub. And add that repo in Netlify.
 
-#### Firebase Hosting 
+![](https://support-hub--assets.s3.eu-west-2.amazonaws.com/assets/74/images/ccqrMpCv0s6E6MJVrg3to8AhpH7kCYW8AV0GTIw2.png)
 
- It will build your project, and upload it to Firebase. In the end, the console will display your Hosting URL:
+The good thing about Netlify is that when there is an update, you will just commit the change, and Netlify will build the project automatically for you. It is free and fast.
 
 #### My own hosting
 

@@ -61,5 +61,5 @@ When you have finished all the steps, the JSON file should look like this.
 
 Next, you can continue on Setup and deploy
 
-{% page-ref page="../setup-your-project.md" %}
+{% page-ref page="../../setup-and-deploy-the-project/setup-your-project.md" %}
 

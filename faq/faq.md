@@ -18,11 +18,3 @@ Yes, if you obtain Extended License. You can make SaaS platform where you client
 
 
 
-## Can I make iPhone Apps
-
-Yes if you have MAC computer.  But there is solution for that also
-
-{% page-ref page="../cloud/cloud-vs-self-hosted.md" %}
-
-
-
