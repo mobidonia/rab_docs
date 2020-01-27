@@ -104,6 +104,10 @@ Next, scroll below and there you should add your authorized domain. Place where 
 
 ![](https://support-hub--assets.s3.eu-west-2.amazonaws.com/assets/74/images/tfiHPrmLAtN3VwNvfJxuG9AjbVVcp342jn8ld1KY.png)
 {% endtab %}
+
+{% tab title="Service Account JSON file" %}
+To download service account JSON file go in  console.firebase.com then in Project -&gt; Project Settings - &gt; Service Accounts and click on "**Generate new private key**"
+{% endtab %}
 {% endtabs %}
 
 

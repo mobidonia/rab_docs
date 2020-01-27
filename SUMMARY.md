@@ -10,7 +10,7 @@
 
 * [Cloud vs Self Hosted](cloud/cloud-vs-self-hosted.md)
 
-## Requirements
+## Self Hosted Requirements <a id="requirements"></a>
 
 * [Environment Setup](requirements/environment-setup.md)
 * [Expo Account](requirements/expo-account.md)
@@ -18,20 +18,19 @@
   * [Firebase Account setup](requirements/setup-project-config-file/firebase-account-setup.md)
   * [Paddle Account](requirements/setup-project-config-file/paddle-account.md)
   * [SMTP account](requirements/setup-project-config-file/smtp-account.md)
+* [Setup your project](requirements/setup-your-project.md)
+* [Run App Producer locally](requirements/run-app-producer-locally.md)
+* [Run App producer on server](requirements/run-app-producer-on-server.md)
 
-## Setup and Deploy the project
+## If you don't use Netlify <a id="setup-and-deploy-the-project"></a>
 
-* [Setup your project](setup-and-deploy-the-project/setup-your-project.md)
 * [Deploy Builder page](setup-and-deploy-the-project/deploy-builder-page.md)
 * [Deploy Cloud Functions](setup-and-deploy-the-project/deploy-cloud-functions.md)
 * [Paddle WebHooks](setup-and-deploy-the-project/paddle-webhooks.md)
 * [Set pricing](setup-and-deploy-the-project/set-pricing.md)
-* [Run App Producer locally](setup-and-deploy-the-project/run-app-producer-locally.md)
 
 ## Advance Configurations
 
-* [\[Optional\] Server App producer](advance-configurations/optional-server-app-producer.md)
-* [Run App producer on server](advance-configurations/run-app-producer-on-server.md)
 * [Clone our docs](advance-configurations/clone-our-docs.md)
 * [Add custom domain to your Firebase Hosting](advance-configurations/add-custom-domain-to-your-firebase-hosting.md)
 * [App Producer is stuck on single app](advance-configurations/app-producer-is-stuck-on-single-app.md)

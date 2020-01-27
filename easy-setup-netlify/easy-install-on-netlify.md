@@ -84,9 +84,9 @@ Or make your own app producer
 **Local \(** On your computer **\)**: Makes iPhone apps \( Mac Only \) and Android Apps \(MAC or Windows\) \)   
 **Automated \(** On server - fees apply **\)**: Makes Android Apps \( Linux  \)
 
-{% page-ref page="../setup-and-deploy-the-project/run-app-producer-locally.md" %}
+{% page-ref page="../requirements/run-app-producer-locally.md" %}
 
-{% page-ref page="../advance-configurations/run-app-producer-on-server.md" %}
+{% page-ref page="../requirements/run-app-producer-on-server.md" %}
 
 
 
