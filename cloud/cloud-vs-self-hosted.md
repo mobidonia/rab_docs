@@ -2,7 +2,7 @@
 
 **Why we offer CLOUD React App Builder**  
   
-Although React App Builder has documentation for installation and it is pretty straightforward, sometimes just maintaining and updating the project / server is difficult and time consuming. Then when they have an iOS app to make, they will need to make it manually and spent time on it.
+Although React App Builder has documentation for installation and it is pretty straightforward, sometimes just maintaining and updating the project / server is difficult and time consuming. Then when they have an iOS app to make, they will need to make it manually and spent time on it. Not to mention that MAC computer is required.
 
 We wanted to offer our clients fully managed service, where their only job will be to market their project and earn money from it.
 

@@ -69,11 +69,13 @@ Paste the Url to receive web hooks
 ****You can also enter your email, to be notified.  
 ****Select all Subscription events to be notified for.
 
-Your Builder Site is Active now. You can accept new customers now. 
+{% hint style="info" %}
+Your Builder Site is Active now. You can accept new customers now.
+{% endhint %}
 
-Now, lets see how you will make the apps. 
+Now, let's see how you will make your client's apps. 
 
-Learn more about our Cloud React App Builder
+Learn more about our Cloud React App Builder \( We will make your client's apps \)
 
 {% page-ref page="../cloud/cloud-vs-self-hosted.md" %}
 
