@@ -18,9 +18,9 @@
   * [Firebase Account setup](requirements/setup-project-config-file/firebase-account-setup.md)
   * [Paddle Account](requirements/setup-project-config-file/paddle-account.md)
   * [SMTP account](requirements/setup-project-config-file/smtp-account.md)
-* [Setup your project](setup-and-deploy-the-project/setup-your-project.md)
-* [Run App Producer locally](setup-and-deploy-the-project/run-app-producer-locally.md)
-* [Run App producer on server](advance-configurations/run-app-producer-on-server.md)
+* [Setup your project](requirements/setup-your-project.md)
+* [Run App Producer locally](requirements/run-app-producer-locally.md)
+* [Run App producer on server](requirements/run-app-producer-on-server.md)
 
 ## If you don't use Netlify <a id="setup-and-deploy-the-project"></a>
 

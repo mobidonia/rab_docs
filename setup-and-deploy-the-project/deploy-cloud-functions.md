@@ -1,3 +1,7 @@
+---
+description: If you don't use netlify
+---
+
 # Deploy Cloud Functions
 
 In Visual Studio Code's terminal run **rabinstaller**.

@@ -91,7 +91,15 @@ Or make your own app producer
 
 
 
+### Update to latest repository code.
 
+Just go in your forked repository, and click on the "Compare button".    
+Then click on the link "switching the base".
+
+![](../.gitbook/assets/switch.png)
+
+Then f there are changes, you will see them. Then click on the  green button "Create Pull Request". Enter Title/Description if needed and once again click on "Create Pull Request".  
+Then click on the other green button "Merge pull Request".
 
 
 

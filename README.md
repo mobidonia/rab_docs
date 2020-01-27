@@ -6,13 +6,19 @@ description: Learn how to make your own React App Builder
 
 ## I purchased react app builder. What should I do next.
 
-Thanks for the purchase. Click on the button bellow, and follow the docs, step by step.
+Thanks for the purchase. 
 
-{% page-ref page="requirements/environment-setup.md" %}
+The easies way to install the App Builder site is using Netlify. Click on the link bellow to continue
 
-## Video Documentation 
+{% page-ref page="easy-setup-netlify/easy-install-on-netlify.md" %}
 
-On the following [link](https://www.loom.com/share/folder/af2fe9e02cbe461badfda49547a64250) you can see the video documentation.
+## Self Hosted VS Cloud
+
+We are now offering Cloud React Builder - where we make your client's apps. And we host and update your instance. All you have to do is to market your project. 
+
+{% page-ref page="cloud/cloud-vs-self-hosted.md" %}
+
+
 
 ## I have pre-sale questions? Where can I ask.
 
@@ -21,12 +27,6 @@ You can contact us via our support portal [here](https://mobidonia.support-hub.i
 Or pls check our FAQ to see if your question is already there.
 
 {% page-ref page="faq/faq.md" %}
-
-## Updating
-
-To  do updates, on your project, check our change log. 
-
-{% embed url="https://headwayapp.co/react-app-builder-changes" %}
 
 
 
