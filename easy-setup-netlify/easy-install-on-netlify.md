@@ -32,7 +32,7 @@ Click on the button "New GIT Site"
 
 Then select Github and connect with your account where you have forked the repository. 
 
-For **Build command** enter: `build:netlify`
+For **Build command** enter: `node fillenv.js && npm run build:cloud`
 
 **Environment variables**
 
