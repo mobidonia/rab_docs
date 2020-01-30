@@ -4,7 +4,7 @@ description: Learn how to make your own React App Builder
 
 # React App Builder Docs
 
-## I purchased react app builder. What should I do next.
+## I purchased React App Builder. What should I do next.
 
 Thanks for the purchase. 
 
