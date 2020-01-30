@@ -4,6 +4,12 @@ description: Netlify offer continues deployment for our App Builder - For free.
 
 # Easy install on Netlify
 
+## Video Guide
+
+{% embed url="https://www.loom.com/share/6dce0553821444f5aef44304636d07b4" %}
+
+
+
 ## Make Firebase and Paddle Account
 
 {% page-ref page="../requirements/setup-project-config-file/firebase-account-setup.md" %}
