@@ -8,7 +8,7 @@ description: Learn how to make your own React App Builder
 
 Thanks for the purchase. 
 
-The easies way to install the App Builder site is using Netlify. Click on the link bellow to continue
+The easiest way to install the App Builder site is using Netlify. Click on the link bellow to continue
 
 {% page-ref page="easy-setup-netlify/easy-install-on-netlify.md" %}
 
