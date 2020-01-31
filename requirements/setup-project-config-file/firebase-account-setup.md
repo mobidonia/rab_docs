@@ -85,12 +85,7 @@ Click on **Email/Password** and enable them and click Save.
 
 ![](https://support-hub--assets.s3.eu-west-2.amazonaws.com/assets/74/images/noPpZWk9PiDRbnNRPoIu7AZezp80HVFuFWfSVSdk.png)
 
-Now click on **Users** and now you should be able to click on **Add user**.  
-
-
-![](https://support-hub--assets.s3.eu-west-2.amazonaws.com/assets/74/images/pHDOkSG5CpX3u7O1JogghnLEzUsmEwzSUtq53PQG.png)
-
-Enter your email and password click Add user.
+Now click on **Users** and now you should be able to click on **Add user**.
 {% endtab %}
 
 {% tab title="Google Login" %}
