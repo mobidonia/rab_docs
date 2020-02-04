@@ -2,7 +2,7 @@
 description: Netlify offer continues deployment for our Landing page - for free.
 ---
 
-# Landing Page
+# Landing Page on Netlify
 
 Become our collaborator on Github
 
