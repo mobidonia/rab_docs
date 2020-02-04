@@ -1,22 +1,10 @@
 ---
-description: Netlify offer continues deployment for our App Builder - For free.
+description: Netlify offer continues deployment for our Landing page - for free.
 ---
 
-# Easy install on Netlify
+# Landing Page
 
-## Video Guide
-
-{% embed url="https://www.loom.com/share/6dce0553821444f5aef44304636d07b4" %}
-
-
-
-## Make Firebase and Paddle Account
-
-{% page-ref page="../requirements/setup-project-config-file/firebase-account-setup.md" %}
-
-{% page-ref page="../requirements/setup-project-config-file/paddle-account.md" %}
-
-## Become our collaborator on Github
+Become our collaborator on Github
 
 By becoming our collaborator, you will always have access to the latest code. [Send us](https://help.mobidonia.com/#reactappbuilder) your GitHub username and purchase code. 
 
@@ -42,11 +30,8 @@ For **Build command** enter: `node fillenv.js && npm run build:cloud`
 
 **Environment variables**
 
-{% hint style="success" %}
-* [ ] REACT\_APP\_appName              - Your Project name
-* [ ] REACT\_APP\_isSaaS                    - true
-* [ ] REACT\_APP\_adminEmail           - Your desired admin email
-* [ ] REACT\_APP\_purchaseCode      - Your CodeCanyon purchase code
+{% hint style="warning" %}
+**Use the same Firebase project!** 
 {% endhint %}
 
 {% hint style="success" %}
@@ -55,55 +40,25 @@ For **Build command** enter: `node fillenv.js && npm run build:cloud`
 * [ ] REACT\_APP\_projectId                - Firebase Project ID \( from console.firebase.com \)
 {% endhint %}
 
-{% hint style="success" %}
-* [ ] REACT\_APP\_privateKey             - Private key \( from service account json \)
-* [ ] REACT\_APP\_serviceAccount . - client\_email \( from service account json \)
-{% endhint %}
-
 Now on Netlify, click on "**Deploy new site**". 
 
 After that, you can point your domain there. 
 
 In you project, register with the admin email you have provided. 
 
-Set up pricing by clicking on your Avatar -&gt; Pricing. 
-
-Then in your Paddle, go in **Developers Tools - &gt; Alerts/Week hooks**  
-Paste the Url to receive web hooks   
-  
-****`https://YOUR_DOMAIN/.netlify/functions/paddle`  
-  
-****You can also enter your email, to be notified.  
-****Select all Subscription events to be notified for.
-
-{% hint style="info" %}
-Your Builder Site is Active now. You can accept new customers now.
-{% endhint %}
-
-Now, let's see how you will make your client's apps. 
-
-Learn more about our Cloud React App Builder \( We will make your client's apps \)
-
-{% page-ref page="../cloud/cloud-vs-self-hosted.md" %}
-
-Or make your own app producer 
-
-**Local \(** On your computer **\)**: Makes iPhone apps \( Mac Only \) and Android Apps \(MAC or Windows\) \)   
-
-
-{% page-ref page="../requirements/run-app-producer-locally.md" %}
-
-
+Set up pricing by clicking on your Avatar -&gt; Settings.
 
 ### Update to latest repository code.
 
 Just go in your forked repository, and click on the "Compare button".    
 Then click on the link "switching the base".
 
-![](../.gitbook/assets/switch.png)
+![](../.gitbook/assets/assets_-lsm8knzk0mqwjamwe0u_-lzbqdf2aqdutub7froo_-lzbrp4j2v8covdkacny_switch.png)
 
 Then if there are changes, you will see them. Then click on the  green button "Create Pull Request". Enter Title/Description if needed and once again click on "Create Pull Request".  
 Then click on the other green button "Merge pull Request".
+
+
 
 
 
