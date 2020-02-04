@@ -89,11 +89,9 @@ Learn more about our Cloud React App Builder \( We will make your client's apps 
 Or make your own app producer 
 
 **Local \(** On your computer **\)**: Makes iPhone apps \( Mac Only \) and Android Apps \(MAC or Windows\) \)   
-**Automated \(** On server - fees apply **\)**: Makes Android Apps \( Linux  \)
+
 
 {% page-ref page="../requirements/run-app-producer-locally.md" %}
-
-{% page-ref page="../requirements/run-app-producer-on-server.md" %}
 
 
 

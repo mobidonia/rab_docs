@@ -33,27 +33,28 @@ With Cloud React App Builder you get your instance up and running in 1 business 
     <tr>
       <td style="text-align:left">Number of Apps</td>
       <td style="text-align:left">Unlimited</td>
-      <td style="text-align:left">Unlimited</td>
+      <td style="text-align:left">Unlimited ( 20 new apps per month )</td>
     </tr>
     <tr>
       <td style="text-align:left">Time to Setup</td>
       <td style="text-align:left">4-5 Hours</td>
-      <td style="text-align:left">2 min</td>
+      <td style="text-align:left">2 min ( 1 business day for us to activate it )</td>
     </tr>
     <tr>
-      <td style="text-align:left">Who makes the apps</td>
+      <td style="text-align:left">Who makes the app</td>
       <td style="text-align:left">You on your computer</td>
-      <td style="text-align:left">We do them</td>
+      <td style="text-align:left">We</td>
     </tr>
     <tr>
-      <td style="text-align:left">Mac needed for iPhone Apps</td>
+      <td style="text-align:left">Do I need MAC to make iPhone Apps</td>
       <td style="text-align:left">Yes</td>
       <td style="text-align:left">No</td>
     </tr>
     <tr>
       <td style="text-align:left">Automated Android App Make</td>
-      <td style="text-align:left">No</td>
-      <td style="text-align:left">Yes, We handle it</td>
+      <td style="text-align:left">Yes - You need to setup VPS
+        <br />( 7$+ / month)</td>
+      <td style="text-align:left">We handle it</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
