@@ -31,7 +31,7 @@ For **Build command** enter: `node fillenv.js && npm run build:cloud`
 **Environment variables**
 
 {% hint style="warning" %}
-**Use the same Firebase project!** 
+Use the same Firebase project from previous setup for React App Builder!
 {% endhint %}
 
 {% hint style="success" %}
