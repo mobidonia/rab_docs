@@ -47,7 +47,7 @@
 
 ## Plugins
 
-* [Landing Page on Netlify](plugins/landing-page.md)
+* [Landing Page](plugins/landing-page.md)
 * [App preview app](plugins/app-preview-app.md)
 
 ## FAQ

@@ -2,7 +2,7 @@
 description: Netlify offer continues deployment for our Landing page - for free.
 ---
 
-# Landing Page on Netlify
+# Landing Page
 
 Become our collaborator on Github
 
@@ -12,10 +12,10 @@ Then we will add you as collaborator on our repository.
 
 [Fork it. ](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)
 
-Then you will have your own clone of the App Builder site. You can easily sync the changes from our source code.
+Then you will have your own clone of the App Builder Landing site. You can easily sync the changes from our source code.
 
 {% hint style="info" %}
-If you don't want to wait for us to give you access, you can [create new private repository with the code](https://www.softwarelab.it/2018/10/12/adding-an-existing-project-to-github-using-the-command-line/) you downloaded from Code Canyon \(Builder Folder\). But this way you lose the opportunity to sync with our source code when we release new version. 
+If you don't want to wait for us to give you access, you can [create new private repository with the code](https://www.softwarelab.it/2018/10/12/adding-an-existing-project-to-github-using-the-command-line/) you downloaded from Code Canyon. But this way you lose the opportunity to sync with our source code when we release new version. 
 {% endhint %}
 
 ## Publish on Netlify
@@ -26,7 +26,7 @@ Click on the button "New GIT Site"
 
 Then select Github and connect with your account where you have forked the repository. 
 
-For **Build command** enter: `node fillenv.js && npm run build:cloud`
+For **Build command** enter \( default \): `npm run build`
 
 **Environment variables**
 
@@ -43,10 +43,6 @@ Use the same Firebase project from previous setup for React App Builder!
 Now on Netlify, click on "**Deploy new site**". 
 
 After that, you can point your domain there. 
-
-In you project, register with the admin email you have provided. 
-
-Set up pricing by clicking on your Avatar -&gt; Settings.
 
 ### Update to latest repository code.
 
