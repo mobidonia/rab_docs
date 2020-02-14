@@ -60,21 +60,60 @@ For **Build command** enter: `node fillenv.js && npm run build:cloud`
 * [ ] REACT\_APP\_serviceAccount . - client\_email \( from service account json \)
 {% endhint %}
 
-Now on Netlify, click on "**Deploy new site**". 
 
-After that, you can point your domain there. 
+
+{% hint style="success" %}
+Now on Netlify, click on "**Deploy new site**". 
+{% endhint %}
 
 In you project, register with the admin email you have provided. 
 
-Set up pricing by clicking on your Avatar -&gt; Pricing. 
+### 
 
-Then in your Paddle, go in **Developers Tools - &gt; Alerts/Week hooks**  
+### Configure React App Builder
+
+{% tabs %}
+{% tab title="Point domain to Netlify" %}
+Now you site is up and running. But it is running on a subdomain from Netlify. 
+
+And you would want to have it under your domain. ex. builder.MYDOMAIN.com
+
+NOTE: If you use Cloud Version - we will email you instructions. 
+
+This is supper easy.  
+
+1. **Go in Domain Settings**
+
+![](../.gitbook/assets/doman_settings.png)
+
+2. **Add custom domain**
+
+![](../.gitbook/assets/add_custom%20%281%29.png)
+
+![](../.gitbook/assets/entering.png)
+
+3. **Receive DNS info. Enter the required DNS changes in your cPanel, Domain Register or DNS provider.**
+
+![](../.gitbook/assets/dns_info.png)
+{% endtab %}
+
+{% tab title="Paddle Webhook" %}
+In your Paddle, go in **Developers Tools - &gt; Alerts/Week hooks**  
 Paste the Url to receive web hooks   
   
 ****`https://YOUR_DOMAIN/.netlify/functions/paddle`  
-  
-****You can also enter your email, to be notified.  
+****
+
+You can also enter your email, to be notified.  
 ****Select all Subscription events to be notified for.
+{% endtab %}
+
+{% tab title="Pricing options" %}
+Set up pricing by clicking on your **Avatar -&gt; Pricing.** 
+
+![](../.gitbook/assets/pricing.png)
+{% endtab %}
+{% endtabs %}
 
 {% hint style="info" %}
 Your Builder Site is Active now. You can accept new customers now.
