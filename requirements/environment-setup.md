@@ -32,3 +32,11 @@ firebase --version
 rabinstaller --version
 ```
 
+{% hint style="success" %}
+Start empty expo.io project. 
+
+To confirm your computer is ready, pls create and run empty expo project. More informations here.   
+  
+[https://expo.io/learn](https://expo.io/learn)
+{% endhint %}
+
