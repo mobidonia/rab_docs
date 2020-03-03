@@ -27,8 +27,8 @@ With Cloud React App Builder you get your instance up and running in 1 business 
   <tbody>
     <tr>
       <td style="text-align:left">Price</td>
-      <td style="text-align:left">100$ - Onetime</td>
-      <td style="text-align:left">100$ - Onetime + 49$ / month</td>
+      <td style="text-align:left">140$ - Onetime</td>
+      <td style="text-align:left">140$ - Onetime + 49$ / month</td>
     </tr>
     <tr>
       <td style="text-align:left">Number of Apps</td>
