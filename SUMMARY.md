@@ -15,7 +15,6 @@
 ## Self Hosted App Producer <a id="requirements"></a>
 
 * [Environment Setup](requirements/environment-setup.md)
-* [Expo Account](requirements/expo-account.md)
 * [Setup App Producer](requirements/setup-project-config-file.md)
 * [Run App Producer locally](requirements/run-app-producer-locally.md)
 * [Run App producer on server](requirements/run-app-producer-on-server.md)
@@ -41,4 +40,5 @@
 
 * [FAQ](faq/faq.md)
 * [Changelog](faq/changelog.md)
+* [Todos](todos.md)
 
