@@ -1,6 +1,6 @@
 # Changelog
 
-## v13.0.0 - 9 March 2020
+## v13.0.0 - 10 March 2020
 
 * **Improvement**: New app redesign based on [Galio](https://galio.io/) and [Material Design RN Framework](https://github.com/creativetimofficial/material-kit-react-native)
 * **Improvement**: Super simple install on Netlify
