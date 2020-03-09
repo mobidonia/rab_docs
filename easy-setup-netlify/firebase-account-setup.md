@@ -101,7 +101,8 @@ Next, scroll below and there you should add your authorized domain. Place where 
 {% endtab %}
 
 {% tab title="Service Account JSON file" %}
-To download service account JSON file go in  console.firebase.com then in Project -&gt; Project Settings - &gt; Service Accounts and click on "**Generate new private key**"
+To download service account JSON file go in  [console.firebase.com](https://console.firebase.google.com/) then in   
+****Project -&gt; Project Settings - &gt; Service Accounts and click on "**Generate new private key**"
 {% endtab %}
 {% endtabs %}
 

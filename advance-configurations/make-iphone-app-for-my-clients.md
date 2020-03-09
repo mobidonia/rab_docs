@@ -22,27 +22,17 @@ You or your clients should have an [Apple Developer Account](https://developer.a
 
 Your client should send you an email with the app ID. 
 
-Run your [Local App producer](https://mobidonia.gitbook.io/react-app-builder/setup-and-deploy-the-project/run-app-producer-locally). 
-
-Instead of selecting the "Start build cycle" select, **iPhone App** and then select **Build**.
-
-And enter the id of the app of your client.
-
 
 
 #### Upload app <a id="upload-app"></a>
 
 Next, in terminal run
 
-`rab`
-
-Select **Run App producer locally**  
-Then select **Make iPhone app**  
-After process is done do the following actions in terminal
-
 `cd Mobile App`
 
 `expo bi`
+
+`expo ui`
 
 This script will as you question how you want to publish the iPhone app, on what account. Do this in collaboration with your client. 
 

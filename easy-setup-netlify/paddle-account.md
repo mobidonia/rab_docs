@@ -1,3 +1,7 @@
+---
+description: This step is only required if you plan to sell subscriptoins
+---
+
 # Paddle Account
 
 We use [Paddle.com](https://paddle.com/) to create easy and secure payment options for your clients. 

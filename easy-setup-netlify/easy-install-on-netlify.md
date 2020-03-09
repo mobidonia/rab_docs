@@ -12,9 +12,9 @@ description: Netlify offer continues deployment for our App Builder - For free.
 
 ## Make Firebase and Paddle Account
 
-{% page-ref page="../requirements/setup-project-config-file/firebase-account-setup.md" %}
+{% page-ref page="firebase-account-setup.md" %}
 
-{% page-ref page="../requirements/setup-project-config-file/paddle-account.md" %}
+{% page-ref page="paddle-account.md" %}
 
 ## Become our collaborator on Github
 

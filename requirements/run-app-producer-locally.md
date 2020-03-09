@@ -1,20 +1,34 @@
 # Run App Producer locally
 
-In Visual Studio Code's terminal run **rabinstaller**.
+When there is new submitted from your clients or you, you as admin will get an email with the ID of the app to be made.
 
-From the menu, select the "Run App producer locally".
+![](../.gitbook/assets/make_app_id.png)
 
-Then you will be asked the following
+Open **Mobile App** folder in Visual studio
 
-![](https://support-hub--assets.s3.eu-west-2.amazonaws.com/assets/74/images/BHJT0IwzbSrX4fPHzSIRQ7qgk5VEtFZCBgMFST9Z.png)
+Open Visual Studio Code's terminal run **npm run produce**.
 
-Select "Start build cycle". 
+From the menu, select the "Make Android" or "Make iPhone App" \( Mac Only \).
 
-This will listen for any app that needs to be compiled. 
+![](../.gitbook/assets/make_apps.png)
 
-It will compile the JS Bundle, create the Android App and send the app to the client.
 
-Try it, create an app in your builder, click on submit and wait for an email. 
+
+Soon as you enter the ID, press enter, 
+
+The process will fetch all the required items and put into place.
+
+Expo.io will start to ask you questions. Read and answer them 
+
+At the end, It will compile the JS Bundle, create the Android App/iOS app and download link will be displayed 
 
 All your app builds can be found [here](https://expo.io/builds).
+
+
+
+Advance guide on creating iOS Apps
+
+{% page-ref page="../advance-configurations/make-iphone-app-for-my-clients.md" %}
+
+
 
