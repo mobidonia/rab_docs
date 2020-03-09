@@ -16,58 +16,15 @@ With Cloud React App Builder you get your instance up and running in 1 business 
 
 ### Plans
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left"></th>
-      <th style="text-align:left">Self Hosted</th>
-      <th style="text-align:left">Cloud</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Price</td>
-      <td style="text-align:left">140$ - Onetime</td>
-      <td style="text-align:left">140$ - Onetime + 49$ / month</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Number of Apps</td>
-      <td style="text-align:left">Unlimited</td>
-      <td style="text-align:left">Unlimited</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Time to Setup</td>
-      <td style="text-align:left">4-5 Hours</td>
-      <td style="text-align:left">2 min</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Who makes the apps</td>
-      <td style="text-align:left">You on your computer</td>
-      <td style="text-align:left">We do them</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Mac needed for iPhone Apps</td>
-      <td style="text-align:left">Yes</td>
-      <td style="text-align:left">No</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Automated Android App Make</td>
-      <td style="text-align:left">No</td>
-      <td style="text-align:left">Yes, We handle it</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">
-        <p>Continue with Self Hosted</p>
-        <p><a href="http://bit.ly/self_hosted_rab">http://bit.ly/self_hosted_rab</a>
-        </p>
-      </td>
-      <td style="text-align:left">
-        <p>Continue With Cloud</p>
-        <p><a href="http://bit.ly/cloud_rab">http://bit.ly/cloud_rab</a> 
-        </p>
-      </td>
-    </tr>
-  </tbody>
-</table>
+|  | Self Hosted | Cloud |
+| :--- | :--- | :--- |
+| Price | 140$ - Onetime | 140$ - Onetime + 49$ / month |
+| Number of Apps | Unlimited | Unlimited |
+| Time to Setup | 4-5 Hours | 2 min  |
+| Who makes the apps | You on your computer | We do them |
+| Mac needed for iPhone Apps | Yes | No |
+| Automated Android App Make | No | Yes, We handle it |
+|  | [Continue with Self Hosted](https://mobidonia.gitbook.io/react-app-builder/requirements/environment-setup) | [Continue With Cloud ](http://bit.ly/cloud_rab%20) |
+
+
 
