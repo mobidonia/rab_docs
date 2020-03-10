@@ -1,5 +1,10 @@
 # Changelog
 
+## v 13.1.0 - 11 March 2020
+
+* **Fix**: Bug fix for gifted chat on win os 
+* **Improvement**: Square image accept only for image
+
 ## v13.0.0 - 10 March 2020
 
 * **Improvement**: New app redesign based on [Galio](https://galio.io/) and [Material Design RN Framework](https://github.com/creativetimofficial/material-kit-react-native)
