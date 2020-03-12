@@ -4,11 +4,11 @@ description: Netlify offer continues deployment for our App Builder - For free.
 
 # Easy install on Netlify
 
-## Video Guide
+## Video Guide 
 
 {% embed url="https://www.loom.com/share/6dce0553821444f5aef44304636d07b4" %}
 
-
+> The video uses github - now we use gitlab. But steps are similar. Follow the written docs.
 
 ## Make Firebase and Paddle Account
 
@@ -16,18 +16,18 @@ description: Netlify offer continues deployment for our App Builder - For free.
 
 {% page-ref page="paddle-account.md" %}
 
-## Become our collaborator on Github
+## Become our collaborator on [GitLab](https://gitlab.com/)
 
-By becoming our collaborator, you will always have access to the latest code. [Send us](https://help.mobidonia.com/#reactappbuilder) your GitHub username and purchase code. 
+By becoming our collaborator, you will always have access to the latest code. [Send us](https://help.mobidonia.com/#reactappbuilder) your [GitLab](https://gitlab.com/) username and purchase code. 
 
 Then we will add you as collaborator on our repository.
 
-[Fork it. ](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)
+[Fork it. ](https://docs.gitlab.com/ee/user/project/repository/forking_workflow.html#creating-a-fork)
 
-Then you will have your own clone of the App Builder site. You can easily sync the changes from our source code.
+Then you will have your own clone of the App Builder site. 
 
 {% hint style="info" %}
-If you don't want to wait for us to give you access, you can [create new private repository with the code](https://www.softwarelab.it/2018/10/12/adding-an-existing-project-to-github-using-the-command-line/) you downloaded from Code Canyon \(Builder Folder\). But this way you lose the opportunity to sync with our source code when we release new version. 
+If you don't want to wait for us to give you access, you can [create new private repository with the code you downloaded](https://docs.gitlab.com/ee/gitlab-basics/create-project.html) from Code Canyon \(Builder Folder\). But this way you lose the opportunity to sync with our source code when we release new version. 
 {% endhint %}
 
 ## Publish on Netlify
@@ -36,7 +36,7 @@ If you don't want to wait for us to give you access, you can [create new private
 
 Click on the button "New GIT Site" 
 
-Then select Github and connect with your account where you have forked the repository. 
+Then select GitLab and connect with your account where you have forked the repository. 
 
 For **Build command** enter: `node fillenv.js && npm run build:cloud`
 
@@ -136,13 +136,15 @@ Or make your own app producer
 
 ### Update to latest repository code.
 
-Just go in your forked repository, and click on the "Compare button".    
-Then click on the link "switching the base".
+WithGitlab, we can configure automatic code syn so your fork always has the latest code automatically. To do that.
 
-![](../.gitbook/assets/switch.png)
+[Send us ](https://help.mobidonia.com/#reactappbuilder)
 
-Then if there are changes, you will see them. Then click on the  green button "Create Pull Request". Enter Title/Description if needed and once again click on "Create Pull Request".  
-Then click on the other green button "Merge pull Request".
+1. GitLab Username
+2. Forked project link
+3. [Access token](https://gitlab.com/help/user/profile/personal_access_tokens.md#creating-a-personal-access-token) with **api** access
+
+And your code and instance on Netlify will be always up to date. No manual action needed. 
 
 
 
