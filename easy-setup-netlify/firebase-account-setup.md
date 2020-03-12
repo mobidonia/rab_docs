@@ -60,7 +60,20 @@ Then, a pop up will appear.
 ![](https://support-hub--assets.s3.eu-west-2.amazonaws.com/assets/74/images/NFDhlKFILxh38cLLOHVqaBYYp4hVjLqgdL9qid1e.png)
 
   
-For now, use Start in test mode.
+Then enter this rules  
+
+
+```text
+rules_version = '2'; 
+service cloud.firestore { 
+  match /databases/{database}/documents {
+    match /{document=**} {
+      allow  read: if true;
+      allow  write: if request.auth.uid != null;
+    }
+  }
+}
+```
 {% endtab %}
 
 {% tab title="Create Firestorage" %}
@@ -105,6 +118,8 @@ To download service account JSON file go in  [console.firebase.com](https://cons
 ****Project -&gt; Project Settings - &gt; Service Accounts and click on "**Generate new private key**"
 {% endtab %}
 {% endtabs %}
+
+
 
 
 
