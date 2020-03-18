@@ -26,5 +26,17 @@ This will start your project on localhost. You will get the correct link. Probab
 
 
 
+### Publish on your own hosting
 
+After you have run the builder locally, and if it works ok you can easily publish it on your own hosting if you want. 
+
+run
+
+```text
+npm run build
+```
+
+This command will make a **dist** folder. 
+
+Upload this **dist** folder to your hosting. 
 
