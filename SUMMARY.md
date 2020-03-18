@@ -25,6 +25,7 @@
 * [Make iPhone App for my Clients](advance-configurations/make-iphone-app-for-my-clients.md)
 * [Manual - Bank transfers from my clients](advance-configurations/manual-bank-transfers-from-my-clients.md)
 * [Translate my app builder site](advance-configurations/translate-my-app-builder-site.md)
+* [Run the app builder locally](advance-configurations/run-the-app-builder-locally.md)
 
 ## Common Problems
 
