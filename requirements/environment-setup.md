@@ -14,6 +14,14 @@ You will need Node, Expo, Firebase Tools \( if you get _EACCES_, use **sudo** be
 2. [Install Visual Studio Code](https://code.visualstudio.com/)  \( _Will use it for text editing and terminal - You can use any text editor and terminal/cmd\)_
 3. **Install Expo**: Follow [instructions](https://docs.expo.io/versions/v35.0.0/get-started/installation/). \( `npm install -g expo-cli` \)  _\( If you get 'expo' is not recognized on windows read_ [_here_](https://stackoverflow.com/a/55196790)_\)_ 
 
+[Expo](http://expo.io/) is a platform build on top of React Native, that allows you an easy and fast process of making React Native Apps in the cloud. We also use expo app compilation process. 
+
+Create Expo Account and then in your computer's terminal/cmd login into expo
+
+```text
+expo login
+```
+
 
 
 To verify your installation run
