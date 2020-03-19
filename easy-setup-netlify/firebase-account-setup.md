@@ -81,20 +81,6 @@ Firebase Storage by default is not initialized. You will need to click on "Stora
 
 
 ![](https://support-hub--assets.s3.eu-west-2.amazonaws.com/assets/74/images/IRTvpxbrbeo0rTTiUAmbotOTBZYZzll7JBB36p56.png)
-
-**IMPORTANT**: This should be the rules for your Firestore Database.
-
-```text
-rules_version = '2';
-service cloud.firestore {
-  match /databases/{database}/documents {
-    match /{document=**} {
-       allow read;
-       allow write: if request.auth !=null;
-    }
-  }
-}
-```
 {% endtab %}
 
 {% tab title="Authentication" %}
