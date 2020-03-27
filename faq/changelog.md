@@ -1,5 +1,11 @@
 # Changelog
 
+### v 13.2.0 - 27 March 2020
+
+* **Fix Builder**: Send email to cloud only if cloud
+* **Fix App**: Gifted Chat node module version
+* **Fix App**: App Producer fix
+
 ## v 13.1.0 - 11 March 2020
 
 * **Fix**: Bug fix for gifted chat on win os 
