@@ -1,5 +1,9 @@
 # Changelog
 
+### v 13.3.0 - 21 April 2020
+
+* App Producer on VPS fix
+
 ### v 13.2.0 - 27 March 2020
 
 * **Fix Builder**: Send email to cloud only if cloud
