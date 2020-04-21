@@ -60,7 +60,21 @@ To verify your installation run
 * **pm2 --version**
 * **mexpo-cli --version**
 
-**Step 2. Upload mobile app source code and install node packages**
+{% tabs %}
+{% tab title="With our repository" %}
+
+
+1. Clone or use our  repository in Git Lab. If you don't have access, send us your purchase code and we will add it.
+2. Connect to your server via ssh
+3. Clone the repository in your server
+4. Use tools like `nano`   or `vi` Configure Mobile App/Producer/config.js with your own data. Email, smtp etc.
+5. You should have also followed and completed the steps for the Local App producer. We need modified firebase\_config.js file and services\_account json file. 
+6. Run **`npm install`** 
+7. Run **`expo login`** and login with your account.
+{% endtab %}
+
+{% tab title="With your repository" %}
+
 
 1. Make sure you have configured Mobile App/Producer/config.js with your own data. Email, smtp etc.
 2. You should have also followed and completed the steps for the Local App producer. We need modified firebase\_config.js file and services\_account json file. 
@@ -70,8 +84,8 @@ To verify your installation run
 6. Go inside your cloned code
 7. Run **`npm install`** 
 8. Run **`expo login`** and login with your account.
-
-
+{% endtab %}
+{% endtabs %}
 
 Now. Run the production script with **`npm run pmserver`**
 
