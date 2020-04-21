@@ -28,23 +28,19 @@ Full list of command
 ```text
 yum -y update
 
-clear
+yum install -y gcc-c++ make
 
-curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash                        
+curl -sL https://rpm.nodesource.com/setup_12.x | sudo -E bash -                        
                                                                                                       
-source ~/.bashrc                                                                                      
+yes Y | sudo yum install nodejs -y                                                                                                                                                                                                                                                                    
                                                                                                       
-nvm install v12.14.1                                                                                  
+yes Y | npm install -g --unsafe-perm --verbose expo-cli  -y      
                                                                                                       
-npm install -g --unsafe-perm --verbose expo-cli        
+yes Y | npm install pm2 -g   -y
 
-npm install -g --unsafe-perm --verbose firebase-tools
+yes Y | yum -y install git -y
                                                                                                       
-npm install pm2 -g    
-
-yum -y install git
-                                                                                                      
-npm install -g --unsafe-perm --verbose mexpo-cli
+yes Y | npm install -g --unsafe-perm --verbose mexpo-cli -y
 
 echo fs.inotify.max_user_watches=524288 | sudo tee -a /etc/sysctl.conf && sudo sysctl -p
 
@@ -53,12 +49,12 @@ source ~/.bashrc
 
 To verify your installation run
 
-* **node --version**
-* **npm --version**
-* **git --version**
-* **expo --version**
-* **pm2 --version**
-* **mexpo-cli --version**
+* **`node --version`**
+* **`npm --version`**
+* **`git --version`**
+* **`expo --version`**
+* **`pm2 --version`**
+* **`mexpo-cli --version`**
 
 {% tabs %}
 {% tab title="With our repository" %}
