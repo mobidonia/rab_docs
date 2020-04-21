@@ -10,6 +10,12 @@ Together with [PM2](http://pm2.keymetrics.io/) you can have a server that never 
 
 Let's start.
 
+### Video
+
+{% embed url="https://www.loom.com/share/fe4b61e4dd6a43d8abb69869e9a15a53" %}
+
+
+
 
 
 #### Create Server  \( Example with CentOS 7 \) <a id="create-server-and-install-webmin-example-with-centos-7"></a>
