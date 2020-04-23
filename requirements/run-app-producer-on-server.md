@@ -70,7 +70,7 @@ To verify your installation run
 2. Connect to your server via ssh
 3. Clone the repository in your server
 4. Use tools like `nano`   or `vi` Configure Mobile App/Producer/config.js with your own data. Email, smtp etc.
-5. You should have also followed and completed the steps for the Local App producer. We need modified firebase\_config.js file and services\_account json file. 
+5. You should have also followed and completed the steps for the Local App producer. We need modified firebase\_config.js file and **service-account-file.json**  file. 
 6. Run **`npm install`** 
 7. Run **`expo login`** and login with your account.
 {% endtab %}
