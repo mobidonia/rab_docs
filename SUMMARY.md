@@ -42,5 +42,5 @@
 
 * [FAQ](faq/faq.md)
 * [Changelog](faq/changelog.md)
-* [Todos](todos.md)
+* [How we can help you best.](faq/how-we-can-help-you-best..md)
 
