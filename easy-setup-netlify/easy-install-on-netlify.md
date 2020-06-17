@@ -38,7 +38,7 @@ Click on the button "New GIT Site"
 
 Then select GitLab and connect with your account where you have forked the repository. 
 
-For **Build command** enter: `node fillenv.js && npm run build:cloud`
+For **Build command** enter:   `CI=false && node fillenv.js && npm run build:cloud`
 
 **Environment variables**
 
