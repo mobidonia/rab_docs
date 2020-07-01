@@ -136,7 +136,7 @@ Or make your own app producer
 
 ### Update to latest repository code.
 
-WithGitlab, we can configure automatic code syn so your fork always has the latest code automatically. To do that.
+With GitLab we can configure automatic code syn so your fork always has the latest code automatically. To do that.
 
 [Send us ](https://help.mobidonia.com/#reactappbuilder)
 
