@@ -2,22 +2,25 @@
 
 * [React App Builder Docs](README.md)
 
-## Self Hosted <a id="easy-setup-netlify"></a>
+## Web Platform <a id="easy-setup-netlify"></a>
 
-* [Easy install on Netlify](easy-setup-netlify/easy-install-on-netlify.md)
+* [Install the  WEB PLATFORM](easy-setup-netlify/easy-install-on-netlify.md)
 * [Firebase Account setup](easy-setup-netlify/firebase-account-setup.md)
 * [Paddle Account](easy-setup-netlify/paddle-account.md)
 
-## CLOUD
+## App Producer <a id="requirements"></a>
 
-* [Cloud vs Self Hosted](cloud/cloud-vs-self-hosted.md)
+* [APP PRODUCER TYPES](requirements/app-producer-types.md)
 
-## Self Hosted App Producer <a id="requirements"></a>
+## Local
 
-* [Environment Setup](requirements/environment-setup.md)
-* [Setup App Producer](requirements/setup-project-config-file.md)
-* [Run App Producer locally](requirements/run-app-producer-locally.md)
-* [Run App producer on server](requirements/run-app-producer-on-server.md)
+* [Environment Setup](local/environment-setup.md)
+* [Setup App Producer](local/setup-project-config-file.md)
+* [Run App Producer locally](local/run-app-producer-locally.md)
+
+## Server
+
+* [Run App producer on server](server/run-app-producer-on-server.md)
 
 ## Advance Configurations
 

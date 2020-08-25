@@ -1,8 +1,8 @@
 ---
-description: Netlify offer continues deployment for our App Builder - For free.
+description: Netlify offer continues deployment for our Web Platfrom - For free.
 ---
 
-# Easy install on Netlify
+# Install the  WEB PLATFORM
 
 ## Video Guide 
 
@@ -119,18 +119,12 @@ Set up pricing by clicking on your **Avatar -&gt; Pricing.**
 Your Builder Site is Active now. You can accept new customers now.
 {% endhint %}
 
-Now, let's see how you will make your client's apps. 
 
-Learn more about our Cloud React App Builder \( We will make your client's apps \)
-
-{% page-ref page="../cloud/cloud-vs-self-hosted.md" %}
-
-Or make your own app producer 
 
 **Local \(** On your computer **\)**: Makes iPhone apps \( Mac Only \) and Android Apps \(MAC or Windows\) \)   
 
 
-{% page-ref page="../requirements/run-app-producer-locally.md" %}
+{% page-ref page="../local/run-app-producer-locally.md" %}
 
 
 

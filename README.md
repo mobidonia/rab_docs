@@ -8,15 +8,17 @@ description: Learn how to make your own React App Builder
 
 Thanks for the purchase. 
 
-The easiest way to install the App Builder site is using Netlify. Click on the link bellow to continue
+React App Builder, consist of two parts
+
+1. **WEB PLATFORM** \( web site where your users make the apps \)
+2. **APP PRODUCER** \( the process of compiling/building the apps \)
+
+  
+First, you need to install the WEB PLATFORM. 
 
 {% page-ref page="easy-setup-netlify/easy-install-on-netlify.md" %}
 
-## Self Hosted VS Cloud
 
-We are now offering Cloud React Builder - where we make your client's apps. And we host and update your instance. All you have to do is to market your project. 
-
-{% page-ref page="cloud/cloud-vs-self-hosted.md" %}
 
 
 
