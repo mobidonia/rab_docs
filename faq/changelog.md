@@ -1,5 +1,13 @@
 # Changelog
 
+### v 13.5.0 - 22 February 2021
+
+Fix for the new domain structure of firebase.
+
+### v 13.4.0
+
+    Updated mobile app
+
 ### v 13.3.0 - 21 April 2020
 
 * App Producer on VPS fix
