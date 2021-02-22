@@ -20,9 +20,9 @@ We have released fixed code on CodeCanyon, and also published the changes on our
 
 The only changes are in the file Builder/src/config/firebase\_config.js
 
-In the environment preferences in netlfy you need to add
+In the environment preferences in Netlify you need to add
 
-`REACT_APP_databasePrefix`**`-default-rtdb`**
+`REACT_APP_databasePrefix`**`-default-rtd`**
 
 
 
