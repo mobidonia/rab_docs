@@ -47,6 +47,13 @@ For **Build command** enter:   `unset CI && node fillenv.js && npm run build:clo
 * [ ] REACT\_APP\_isSaaS                    - true
 * [ ] REACT\_APP\_adminEmail           - Your desired admin email
 * [ ] REACT\_APP\_purchaseCode      - Your CodeCanyon purchase code
+* [ ] REACT\_APP\_databasePrefix     - New Firebase DB have **-default-rtdb** prefix
+{% endhint %}
+
+{% hint style="info" %}
+ Firebase have made changes in their firebase database link structure. So new databases are operating under https://PROJECTID**-default-rtdb**.firebaseio.com/. In that case, you need to deine new variable 
+
+* [ ] REACT\_APP\_databasePrefix
 {% endhint %}
 
 {% hint style="success" %}
